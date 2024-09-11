@@ -16,3 +16,4 @@ jobs:
           files: |
             Resumes/industry.tex
             Resumes/academic.tex
+            curriculum_vitae.tex
