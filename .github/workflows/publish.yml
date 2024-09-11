@@ -15,5 +15,3 @@ jobs:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           files: |
             Resumes/industry.tex
-          handouts: |
-            # 
